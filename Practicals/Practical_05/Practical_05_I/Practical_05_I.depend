@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688985500 source:c:\users\arvin\documents\code blocks\practicals\practical_05\practical_05_i\main.c
+	<stdio.h>
+	<stdlib.h>
+
